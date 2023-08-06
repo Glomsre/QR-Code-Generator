@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# File generati
+dist/
+build/
+*.log
+*.log.*
+
+# Altri file generati o temporanei
+*.tmp
+*.temp
+
+# Inquirer package
+node_modules/inquirer/
+
+# qr-image package
+node_modules/qr-image/
+
+# Config file (se presente)
+config.js
+config.json
